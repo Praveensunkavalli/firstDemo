@@ -7,3 +7,4 @@ while(n<=10):
     print("samosa")
     #print("tintava")
     n=n+1
+    print("hello git")
