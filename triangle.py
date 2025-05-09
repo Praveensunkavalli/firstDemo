@@ -5,5 +5,5 @@ h=float(input("enter the height of the triangle: "))
 area=1/2*b*h
 print(area)
 
-print("patrveen")
+print("praveen")
 
